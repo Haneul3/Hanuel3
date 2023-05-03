@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!%20I'm%20Haneul!&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi!%20I'm%20Haneul!&fontSize=80"/>
 <h3>:raised_hands: Introduction :raised_hands:</h3>
 Hi! I'm haneul<br>
 I like learning new things<br>
